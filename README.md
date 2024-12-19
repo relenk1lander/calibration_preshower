@@ -52,4 +52,3 @@ The `calibration.cs` and `calibration_changetp.cs` file are C# scripts designed 
 
 For any questions or comments, please reach out to:
 **Rafaella Eleni Kotitsa**  
-📧 [rafaella.eleni.kotitsa@cern.ch](mailto:rafaella.eleni.kotitsa@cern.ch)
