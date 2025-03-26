@@ -1,4 +1,4 @@
-//Fitting method for the charge calibration of the new preshower detector of FASER.
+//Averaging method for the charge calibration of the new preshower detector of FASER.
 //Any questions or comments please contact: Rafaella Eleni Kotitsa (rafaella.eleni.kotitsa@cern.ch)
 #include <TFile.h>
 #include <TH1I.h>
