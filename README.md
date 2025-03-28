@@ -6,11 +6,11 @@ This repository contains two calibration methods implemented for the new preshow
 
 ### 1. **Averaging Method**
    - The averaging method calculates the reconstructed charge with a sophisticated interpolation method.
-   - Detailed description and results can be found [here](https://indico.cern.ch/event/1442377/contributions/6070681/attachments/2905453/5096798/Calibration_Rafaella.pdf).
+   - Detailed description and results can be found in the Section 5 (p. 162) [here](https://access.archive-ouverte.unige.ch/access/metadata/daeb318d-21e5-4908-8644-001f18a5482b/download).
 
 ### 2. **Fitting Method**
    - The fitting method uses fitting techniques to recontruct the charge of each pixel.
-   - For details and results, refer to the back slides in [this presentation](https://indico.cern.ch/event/1284854/contributions/5951349/attachments/2889433/5064956/Rafaella_Kotitsa_FASER_iworid.pdf).
+   - For details and results, refer to the back slides in the Section 5 (p. 179) [here](https://access.archive-ouverte.unige.ch/access/metadata/daeb318d-21e5-4908-8644-001f18a5482b/download).
 
 ## Running the Calibration
 
